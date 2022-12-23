@@ -1,0 +1,22 @@
+{
+  "name": "canvas_sketch_test",
+  "version": "1.0.0",
+  "description": "Animations on canvas-sketch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianbadillo/canvas_sketch_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julianbadillo/canvas_sketch_test/issues"
+  },
+  "homepage": "https://github.com/julianbadillo/canvas_sketch_test#readme",
+  "dependencies": {
+    "canvas-sketch": "^0.7.6"
+  }
+}
